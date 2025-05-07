@@ -2,7 +2,13 @@
 
 💻 **Web Developer & Designer**  
 🌱 Former doctor, now fully immersed in the world of IT and programming.  
-🚀 Actively learning web development and exploring the freelance industry.  
+🚀 Actively learning web development and exploring the freelance industry.
+
+## About Me
+
+Here’s a short summary about me as a frontend developer — in three languages (EN, DE, RU):
+
+[📄 Download About Me (3 languages)](./About_Me_3_Languages.docx)
 
 ## 🔗 My Projects  
 - 🌍 [EcoVision – Website about eco-initiatives](https://NadinDesigns.github.io/EcoVision/)  
