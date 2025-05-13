@@ -9,9 +9,7 @@
 Here’s a short summary about me as a frontend developer — in three languages (EN, DE, RU):
 
 [📄 Download About Me (3 languages)](./About_Me_3_Languages.docx)
-
-## 🔗 My Projects  
-- 🌍 [EcoVision – Website about eco-initiatives](https://NadinDesigns.github.io/EcoVision/)  
+ 
 - ## My Projects
 
 ### EcoVision  — an advanced responsive website promoting eco-initiatives and sustainable living.
