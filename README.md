@@ -12,7 +12,21 @@ Here’s a short summary about me as a frontend developer — in three languages
 
 ## 🔗 My Projects  
 - 🌍 [EcoVision – Website about eco-initiatives](https://NadinDesigns.github.io/EcoVision/)  
-- 💡 More projects coming soon!  
+- ## My Projects
+
+### EcoVision  — an advanced responsive website promoting eco-initiatives and sustainable living.
+This project features interactive card flip animations and a fully functional burger menu — all built using only HTML and CSS (no JavaScript). 
+**[View Website](https://nadin-designs.github.io/EcoVision/)**  
+**[GitHub Repo](https://github.com/nadin-designs/EcoVision)**  
+
+---
+
+### Alphabet Game  
+My first interactive JavaScript game. The goal is to arrange shuffled letters into alphabetical order. I implemented click-based movement, DOM manipulation, and audio feedback.  
+This project helped me understand logic, event handling, and debugging. I’m proud of finding and fixing all errors on my own.  
+**[Play the Game](https://nadindesigns.github.io/Alfabet-game/)**  
+**[GitHub Repo](https://github.com/nadin-designs/Alfabet-game)**
+
 
 ## 🔧 What I'm currently working on  
 I'm actively learning web development and programming languages while improving my website layout and design skills. I am also exploring opportunities in freelancing.  
