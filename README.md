@@ -12,13 +12,15 @@ Here’s a short summary about me as a frontend developer — in three languages
  
 - ## My Projects
 
-The World Bank — Banking App
-A fully interactive banking application built in vanilla JavaScript. This project includes login with PIN, money transfers, loan requests, account closure, auto logout, real-time clock (with seconds), and localized date & currency formatting using the Intl API.
+### The World Bank — Banking App
+
+A fully interactive banking application built in vanilla JavaScript. This project includes login with PIN, money transfers, loan requests, account closure, auto logout, real-time clock (with seconds), and localized date & currency formatting using the `Intl` API.
 
 I worked on this project with guidance from my instructor, but built most of it myself — including all logic, styling, and debugging. It helped me understand session handling, data updates, and real-time UI feedback.
 
-🔗 Live Preview
-📦 GitHub Repo
+[Live Preview](https://nadinedesign.github.io/Banking-app)  
+[GitHub Repo](https://github.com/NadinDesigns/Banking-app)
+
 
 ### EcoVision  — an advanced responsive website promoting eco-initiatives and sustainable living.
 This project features interactive card flip animations and a fully functional burger menu — all built using only HTML and CSS (no JavaScript). 
