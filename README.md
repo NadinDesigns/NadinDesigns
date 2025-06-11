@@ -30,7 +30,7 @@ This project uses the **Geolocation API** and **OOP** with classes to manage wor
 
 It also includes **smooth transitions** between map markers, workout **validation**, **responsive design**, and a **reset functionality**. I followed an instructor's course while adding my own debugging and enhancements throughout the build.
 
-**[View Website](https://nadin-designs.github.io/workout-tracker/)**  
+**[View Website](https://nadindesigns.github.io/workout-tracker/)**  
 **[GitHub Repo](https://github.com/nadin-designs/workout-tracker)** 
 
 
