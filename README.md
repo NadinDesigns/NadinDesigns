@@ -23,15 +23,15 @@ I worked on this project with guidance from my instructor, but built most of it 
 [GitHub Repo](https://github.com/NadinDesigns/Banking-app)
 
 
-FitnessMapApp — Workout Tracker with Interactive Map 🏃‍♀️📍
+### FitnessMapApp — Workout Tracker with Interactive Map 🏃‍♀️📍
 A fully functional workout tracker built with vanilla JavaScript. The app lets users log running and cycling workouts by clicking directly on a map, entering workout data, and saving it for later viewing.
 
-This project uses the Geolocation API and OOP with classes to manage workouts, render markers on the map, calculate stats like speed, pace, and elevation gain, and store all data in LocalStorage.
+This project uses the **Geolocation API** and **OOP** with classes to manage workouts, render markers on the map, calculate stats like speed, pace, and elevation gain, and store all data in LocalStorage.
 
-It also includes smooth transitions between map markers, workout validation, responsive design, and a reset functionality. I followed an instructor's course while adding my own debugging and enhancements throughout the build.
+It also includes **smooth transitions** between map markers, workout **validation**, **responsive design**, and a **reset functionality**. I followed an instructor's course while adding my own debugging and enhancements throughout the build.
 
-🔗 Live Demo
-📂 GitHub Repo
+**[View Website](https://nadin-designs.github.io/workout-tracker/)**  
+**[GitHub Repo](https://github.com/nadin-designs/workout-tracker)** 
 
 
 ### EcoVision  — an advanced responsive website promoting eco-initiatives and sustainable living.
